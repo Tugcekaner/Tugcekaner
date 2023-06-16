@@ -3,6 +3,11 @@
 Hello Everyone
 </h1>
 
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 <h3> I am a front-end focused full-stack web developer. I strive to create user-friendly and engaging user interfaces by leveraging my passion for web technologies and a creative approach. I develop web projects using fundamental tools such as HTML, CSS, and JavaScript, while also utilizing popular frameworks like React.js. I effectively employ UI libraries such as Bootstrap and Material UI to create professional and sleek designs. I interact with backend technologies to enhance user experience and integrate with databases using platforms like Node.js. I stay updated with the latest advancements in the tech field and remain dedicated to self-improvement. I enjoy participating in creative and innovative projects and collaborating with my team. Feel free to explore my projects and learn more about me on my GitHub profile.</h3>
 <hr>
   
@@ -22,6 +27,8 @@ Technologies I use.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=FFD43B)
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <hr>
 
