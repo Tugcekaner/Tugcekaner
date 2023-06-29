@@ -8,7 +8,7 @@ Hello Everyone
        alt="snake" /></a>
 </div>
 
-<h3> I am a front-end focused full-stack web developer. I strive to create user-friendly and engaging user interfaces by leveraging my passion for web technologies and a creative approach. I develop web projects using fundamental tools such as HTML, CSS, and JavaScript, while also utilizing popular frameworks like React.js. I effectively employ UI libraries such as Bootstrap and Material UI to create professional and sleek designs. I interact with backend technologies to enhance user experience and integrate with databases using platforms like Node.js. I stay updated with the latest advancements in the tech field and remain dedicated to self-improvement. I enjoy participating in creative and innovative projects and collaborating with my team. Feel free to explore my projects and learn more about me on my GitHub profile.</h3>
+<h3> I am a back-end focused full-stack web developer. I strive to create user-friendly and engaging user interfaces by leveraging my passion for web technologies and a creative approach. I develop web projects using fundamental tools such as HTML, CSS, and JavaScript, while also utilizing popular frameworks like React.js. I effectively employ UI libraries such as Bootstrap and Material UI to create professional and sleek designs. I interact with backend technologies to enhance user experience and integrate with databases using platforms like Node.js. I stay updated with the latest advancements in the tech field and remain dedicated to self-improvement. I enjoy participating in creative and innovative projects and collaborating with my team. Feel free to explore my projects and learn more about me on my GitHub profile.</h3>
 <hr>
   
 <p>Ask me about anything </p>
