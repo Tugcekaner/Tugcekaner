@@ -38,3 +38,8 @@ GitHub Stats
 <a href="https://github.com/tugcekaner">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tugcekaner&layout=compact&theme=dark&show_icons=true" width="450">
 </a>
+
+<h3>
+🏆 GitHub Trophies
+</h3>
+<img src="https://github-profile-trophy.vercel.app/?username=tugcekaner&theme=radical&no-frame=false&no-bg=false&margin-w=4">
